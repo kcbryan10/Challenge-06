@@ -9,6 +9,3 @@ user will be able to type in a specific city and receive the weather forecast
 * CSS
 * JS
 
-## Website
-https://kcbryan10.github.io/challenge-05/
-

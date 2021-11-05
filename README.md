@@ -12,4 +12,4 @@ Bad practice,but had to change code within github because code was no loading pr
 * CSS
 * JS
 
-![alt text](http://url/to/img.png)
+![weather](https://user-images.githubusercontent.com/90362572/140441936-4ab649ec-7e0f-4d1b-a57d-34bf68b49f3b.PNG)
